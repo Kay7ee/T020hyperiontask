@@ -1,4 +1,4 @@
-print_this = input("What would you like to say? ")
-print(print_this)
+user_input = input("What would you like to say? ")
+print(user_input)
 
 # Issue-2 edit comments here
